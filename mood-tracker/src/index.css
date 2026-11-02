@@ -1,0 +1,62 @@
+:root {
+  --bg: #eef1fb;
+  --surface: #ffffff;
+  --text: #2b2d42;
+  --text-muted: #6b7089;
+  --primary: #5b5fef;
+  --primary-dark: #4548c9;
+  --radius-lg: 20px;
+  --radius-md: 14px;
+  --radius-full: 999px;
+  --shadow: 0 4px 16px rgba(43, 45, 66, 0.08);
+
+  --mood-happy: #f2a541;
+  --mood-sad: #5b7fef;
+  --mood-angry: #ef5b6b;
+  --mood-neutral: #8d99ae;
+  --mood-calm: #35b697;
+
+  font-family: "Inter", system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Poppins", "Inter", system-ui, sans-serif;
+  margin: 0;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+}
+
+.app-shell {
+  min-height: 100%;
+  padding: 32px 16px 60px;
+}
+
+.container {
+  max-width: 640px;
+  margin: 0 auto;
+}

@@ -1,0 +1,23 @@
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.5:5001
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 483-927-844
+127.0.0.1 - - [22/Aug/2026 16:47:32] "POST /analyze HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2026 16:48:10] "POST /analyze HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2026 16:48:27] "POST /analyze HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2026 16:48:40] "POST /analyze HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2026 16:50:22] "POST /analyze HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2026 16:50:33] "POST /analyze HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2026 16:50:42] "POST /analyze HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2026 16:51:05] "POST /analyze HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2026 16:52:03] "POST /analyze HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2026 16:53:00] "POST /analyze HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2026 16:55:17] "POST /analyze HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2026 16:55:46] "POST /analyze HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2026 16:56:08] "POST /analyze HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2026 16:57:30] "POST /analyze HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2026 16:58:01] "POST /analyze HTTP/1.1" 200 -
